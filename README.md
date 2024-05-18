@@ -3,6 +3,7 @@
 ## Description
 
 This is a Chrome extension that automates certain tasks on specific websites.
+This can be customised to perform tasks on different websites.
 
 ## Features
 
