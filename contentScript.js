@@ -35,7 +35,7 @@ function handleSiteA() {
     chrome.storage.local.set({ textContent: textContent });
 
     // Navigate to the download/any page URL
-    // Change according to the requirements
+    // Change according to the requirement
     chrome.runtime.sendMessage({ navigate: "https://jsonviewer.stack.hu/" });
 
     // Download file
