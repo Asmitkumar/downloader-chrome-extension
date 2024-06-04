@@ -10,7 +10,6 @@ function handleAutomateButtonClick() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-    // Your code here
     // Add event listener to the button here
     document.getElementById('automateButton').addEventListener('click', handleAutomateButtonClick);
 });
